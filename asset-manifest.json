@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aria-nj-7.github.io/static/css/main.2f682dfd.css",
-    "main.js": "/aria-nj-7.github.io/static/js/main.77ca972f.js",
-    "static/js/787.a2bf511c.chunk.js": "/aria-nj-7.github.io/static/js/787.a2bf511c.chunk.js",
-    "service-worker.js": "/aria-nj-7.github.io/service-worker.js",
-    "index.html": "/aria-nj-7.github.io/index.html",
-    "main.2f682dfd.css.map": "/aria-nj-7.github.io/static/css/main.2f682dfd.css.map",
-    "main.77ca972f.js.map": "/aria-nj-7.github.io/static/js/main.77ca972f.js.map",
-    "787.a2bf511c.chunk.js.map": "/aria-nj-7.github.io/static/js/787.a2bf511c.chunk.js.map"
+    "main.css": "/robofriends/static/css/main.2f682dfd.css",
+    "main.js": "/robofriends/static/js/main.ae7b656d.js",
+    "static/js/787.a2bf511c.chunk.js": "/robofriends/static/js/787.a2bf511c.chunk.js",
+    "service-worker.js": "/robofriends/service-worker.js",
+    "index.html": "/robofriends/index.html",
+    "main.2f682dfd.css.map": "/robofriends/static/css/main.2f682dfd.css.map",
+    "main.ae7b656d.js.map": "/robofriends/static/js/main.ae7b656d.js.map",
+    "787.a2bf511c.chunk.js.map": "/robofriends/static/js/787.a2bf511c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f682dfd.css",
-    "static/js/main.77ca972f.js"
+    "static/js/main.ae7b656d.js"
   ]
 }
